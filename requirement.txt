@@ -1,0 +1,25 @@
+# Environment variables
+python-dotenv
+
+# Data validation
+pydantic
+
+# PDF handling
+pypdf
+
+# Vector stores
+faiss-cpu
+chromadb
+
+# LangChain core
+langchain
+langchain_chains
+langchain-core
+langchain-community
+
+# LangChain LLM connectors
+langchain-huggingface
+langchain-groq
+fastapipip
+
+sentence-transformers
